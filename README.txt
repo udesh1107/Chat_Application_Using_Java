@@ -1,0 +1,2 @@
+This is a small java chat application I developed to chat in a local network. We should provide the IP address to send IM. 
+This can be further developed as a chat room and easily integrated to any java based application. 
